@@ -105,7 +105,7 @@ if __name__ == "__main__":
     
     
     TOTAL_IMAGES_TO_GENERATE = 4000
-    OUTPUT_DIRECTORY = "ai_images" 
+    OUTPUT_DIRECTORY = "images" 
     
     
     MAX_CONCURRENT_REQUESTS = 10 
